@@ -1,0 +1,56 @@
+name: Solar tip to Instagram
+
+on:
+  schedule:
+    # Mon, Wed, Fri at 15:40 UTC = 17:40 Beirut in winter (18:40 in summer)
+    - cron: "40 15 * * 1,3,5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (render only, don't post)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency: solar-tips
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: solar-tips
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow==11.*
+
+      - name: Render next card
+        run: MODE=render python post.py
+
+      - name: Push card so Instagram can fetch it
+        run: |
+          git config user.name "circa100-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add cards next.json posted.json 2>/dev/null || git add cards next.json
+          git commit -m "Solar tip card $(date +%F)"
+          git push
+
+      - name: Publish to Instagram
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IMAGE_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/solar-tips/
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: MODE=publish python post.py
+
+      - name: Save posting log (feeds the website widget)
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git add -A .
+          git commit -m "Posted solar tip $(date +%F)" || true
+          git push
