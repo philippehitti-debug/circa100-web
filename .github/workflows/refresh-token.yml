@@ -1,0 +1,28 @@
+name: Refresh Instagram token
+
+on:
+  schedule:
+    - cron: "17 6 1,15 * *"   # 1st and 15th of each month
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: solar-tips
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow==11.*
+      - name: Get a fresh 60-day token
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          TOKEN_OUT: /tmp/new_token
+        run: MODE=refresh python post.py
+      - name: Store it back in the repository secret
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: gh secret set IG_TOKEN --repo "${{ github.repository }}" < /tmp/new_token
