@@ -1,0 +1,11 @@
+☀️ Solar tip #002 · For the technical crowd
+
+Design Voc for the coldest morning
+
+Voc rises as cells get colder. Correct string Voc to the site's minimum temperature and stay under the inverter's max DC input.
+
+Use the module's Voc temperature coefficient (typically around −0.25 to −0.3 %/°C). Mountain sites in Lebanon can see sub-zero winter mornings, which pushes Voc well above STC.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

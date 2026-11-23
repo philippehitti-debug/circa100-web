@@ -1,0 +1,11 @@
+☀️ Solar tip #012 · For the technical crowd
+
+Battery cables carry the big current
+
+A 5 kW inverter on a 48 V battery draws over 100 A. Size the cable and fuse or breaker at the battery for that.
+
+Undersized battery leads run hot and cause voltage sag and nuisance low-voltage cut-offs. Keep them short, use proper lugs and torque them to spec.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

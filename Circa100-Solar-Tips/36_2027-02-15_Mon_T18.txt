@@ -1,0 +1,11 @@
+☀️ Solar tip #036 · For the technical crowd
+
+CT clamp direction matters
+
+For zero-export or export limiting, the CT arrow must point the way the manufacturer specifies, usually toward the grid.
+
+A reversed CT makes the inverter think the house is exporting while it is importing. Check the live readings at commissioning.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

@@ -1,0 +1,11 @@
+☀️ Solar tip #008 · For the technical crowd
+
+Keep DC voltage drop under about 1.5%
+
+Size DC cables for voltage drop, not just ampacity. UV-rated solar cable, 4 or 6 mm² for most residential strings.
+
+Long roof-to-basement runs are common in Lebanese buildings. Calculate the drop for the full loop length (go and return).
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

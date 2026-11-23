@@ -1,0 +1,11 @@
+☀️ Solar tip #032 · For the technical crowd
+
+Check N–PE bonding in battery mode
+
+When a hybrid inverter runs off-grid, the neutral–earth bond must be correct, or the RCDs downstream won't work.
+
+Many hybrids switch the bond with an internal relay. Test RCD tripping with the grid or generator disconnected.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

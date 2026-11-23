@@ -1,0 +1,11 @@
+☀️ Solar tip #016 · For the technical crowd
+
+Three or more strings in parallel? Fuse them
+
+With three or more parallel strings, a fault can back-feed one string from the others. String fuses prevent it.
+
+Check the module's maximum series fuse rating and size the fuses accordingly.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

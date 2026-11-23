@@ -1,0 +1,11 @@
+☀️ Solar tip #018 · For the technical crowd
+
+Space rows for the winter solstice
+
+At Beirut's latitude the noon sun on 21 December is about 33° high. Row gap ≈ 1.55 × the rise of the panel ahead.
+
+Rise = panel length × sin(tilt). Add a margin if you want shade-free hours beyond noon in winter.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

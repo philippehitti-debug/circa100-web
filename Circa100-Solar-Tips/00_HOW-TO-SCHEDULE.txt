@@ -1,0 +1,22 @@
+CIRCA 100 · SOLAR TIPS — HOW TO SCHEDULE THE 40 POSTS ON INSTAGRAM
+
+Each post has two files with the same number:
+  NN_date_day_TIP.jpg  = the image to post
+  NN_date_day_TIP.txt  = the caption to copy and paste
+00_SCHEDULE.csv lists all 40 posts with dates (Mon/Wed/Fri, 25 Nov 2026 to 24 Feb 2027, 17:45 Beirut).
+
+ONE-TIME CHECK
+  @circa.100 must be a Professional account and connected to your Circa 100 Facebook Page
+  (Instagram app > Settings > Accounts Center, or Facebook Page settings > Linked accounts).
+
+SCHEDULING (Meta Business Suite, free)
+  1. Go to business.facebook.com and choose the Circa 100 business. (On your phone you can use the Meta Business Suite app.)
+  2. Left menu > Planner (or Content) > Create post.
+  3. Under "Post to", tick Instagram (@circa.100). Untick Facebook unless you also want it on the Page.
+  4. Add photo/video > Upload from computer > choose 01_....jpg.
+  5. Open 01_....txt, select all (Cmd+A), copy (Cmd+C), and paste it into the text box.
+  6. At the bottom, choose "Schedule", set the date and time from the file name (17:45), and click Schedule.
+  7. Repeat for 02, 03 ...
+
+  If the Planner won't let you schedule that far ahead, schedule the first month now and the rest later.
+  Tip: do 5–10 posts per sitting; each one takes about a minute.

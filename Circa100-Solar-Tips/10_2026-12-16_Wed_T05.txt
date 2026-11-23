@@ -1,0 +1,11 @@
+☀️ Solar tip #010 · For the technical crowd
+
+Never mix MC4 brands
+
+Mated connectors from different manufacturers are a classic cause of hot joints and fires. Same brand, proper crimp tool.
+
+Cross-mated connectors void warranties and can fail open-circuit or overheat. Crimp, don't solder, and pull-test every joint.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

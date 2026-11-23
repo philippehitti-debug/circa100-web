@@ -1,0 +1,11 @@
+☀️ Solar tip #028 · For the technical crowd
+
+Measure every string before connecting
+
+Strings on the same MPPT should show Voc within about 2 to 3% of each other.
+
+A string reading clearly low usually means a missing module, reversed polarity or a bad connector. Fix it before the inverter sees it.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

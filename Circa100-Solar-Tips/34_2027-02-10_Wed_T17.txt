@@ -1,0 +1,11 @@
+☀️ Solar tip #034 · For the technical crowd
+
+Tune the generator input
+
+Set the maximum AC charge current and use the generator mode so the inverter accepts generator frequency swings.
+
+Lebanese private generators often drift in frequency and voltage. The right input mode stops the inverter from dropping the generator repeatedly.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

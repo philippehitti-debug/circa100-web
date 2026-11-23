@@ -1,0 +1,11 @@
+☀️ Solar tip #014 · For the technical crowd
+
+Bond the frames, add surge protection
+
+Earth module frames and rails, and fit Type 2 SPDs on both the DC and AC sides.
+
+Rooftop arrays are exposed to induced surges. Keep earthing conductors short and direct, and check SPD status windows during maintenance.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

@@ -1,0 +1,441 @@
+﻿#,Post date,Time (Beirut),Tip,Audience,Title,Image file,Caption
+1,Wed 25 Nov 2026,17:45,E01,Every home,Wash your panels the smart way,01_2026-11-25_Wed_E01.jpg,"☀️ Solar tip #001 · For every home
+
+Wash your panels the smart way
+
+Rinse with plain water early in the morning or at sunset. Never splash cold water on hot glass at midday, and skip soap and hard brushes.
+
+Lebanese dust and pollen settle fast, especially after a dry spell or a sandstorm. A gentle rinse every few weeks keeps output up. A soft mop with a long handle is enough; abrasive pads scratch the anti-reflective coating.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+2,Fri 27 Nov 2026,17:45,T01,Technical,Design Voc for the coldest morning,02_2026-11-27_Fri_T01.jpg,"☀️ Solar tip #002 · For the technical crowd
+
+Design Voc for the coldest morning
+
+Voc rises as cells get colder. Correct string Voc to the site's minimum temperature and stay under the inverter's max DC input.
+
+Use the module's Voc temperature coefficient (typically around −0.25 to −0.3 %/°C). Mountain sites in Lebanon can see sub-zero winter mornings, which pushes Voc well above STC.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+3,Mon 30 Nov 2026,17:45,E02,Every home,Run heavy loads between 10:00 and 15:00,03_2026-11-30_Mon_E02.jpg,"☀️ Solar tip #003 · For every home
+
+Run heavy loads between 10:00 and 15:00
+
+Washing machine, water pump, electric heater, ironing: schedule them while the sun is high and your panels are at their peak.
+
+Every kWh you use straight from the panels is a kWh your battery doesn't have to store and your generator doesn't have to make. Timers and smart plugs make this automatic.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+4,Wed 02 Dec 2026,17:45,T02,Technical,Check Vmp at hot cell temperature,04_2026-12-02_Wed_T02.jpg,"☀️ Solar tip #004 · For the technical crowd
+
+Check Vmp at hot cell temperature
+
+At a summer cell temperature of around 70°C, the string Vmp must still sit inside the inverter's MPPT window.
+
+Too few modules per string and the hot-day voltage drops below the tracker's minimum, so the inverter loses the MPP exactly when irradiance is highest.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+5,Fri 04 Dec 2026,17:45,E03,Every home,Don't empty your battery every night,05_2026-12-04_Fri_E03.jpg,"☀️ Solar tip #005 · For every home
+
+Don't empty your battery every night
+
+Keep a reserve of about 20% in a lithium battery. Deep daily discharges shorten its life.
+
+Most hybrid inverters let you set a minimum state of charge. Ask your installer to set a sensible cut-off so the battery always has a buffer for the morning and for cloudy days.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+6,Mon 07 Dec 2026,17:45,T03,Technical,"One MPPT, one orientation, one module",06_2026-12-07_Mon_T03.jpg,"☀️ Solar tip #006 · For the technical crowd
+
+One MPPT, one orientation, one module
+
+Don't mix module models, tilts or azimuths on the same MPPT input. Mismatch costs yield.
+
+Use separate MPPT inputs for east and west arrays, or for strings with different module counts.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+7,Wed 09 Dec 2026,17:45,E04,Every home,One shadow can cost a whole string,07_2026-12-09_Wed_E04.jpg,"☀️ Solar tip #007 · For every home
+
+One shadow can cost a whole string
+
+A water tank, antenna or satellite dish shading a single panel can pull down the output of every panel wired with it.
+
+Panels in a string behave like a chain: the weakest link sets the pace. Before installing, walk the roof at 9:00, 12:00 and 15:00 and note every shadow. Move small obstacles if you can.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+8,Fri 11 Dec 2026,17:45,T04,Technical,Keep DC voltage drop under about 1.5%,08_2026-12-11_Fri_T04.jpg,"☀️ Solar tip #008 · For the technical crowd
+
+Keep DC voltage drop under about 1.5%
+
+Size DC cables for voltage drop, not just ampacity. UV-rated solar cable, 4 or 6 mm² for most residential strings.
+
+Long roof-to-basement runs are common in Lebanese buildings. Calculate the drop for the full loop length (go and return).
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+9,Mon 14 Dec 2026,17:45,E05,Every home,"Check your app, not just your lights",09_2026-12-14_Mon_E05.jpg,"☀️ Solar tip #009 · For every home
+
+Check your app, not just your lights
+
+Compare today's kWh with a similar sunny day. A sudden drop usually means dust, new shade or a fault.
+
+Your inverter app keeps daily and monthly history. A quick look once a week catches problems early, before they cost you weeks of lost production.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+10,Wed 16 Dec 2026,17:45,T05,Technical,Never mix MC4 brands,10_2026-12-16_Wed_T05.jpg,"☀️ Solar tip #010 · For the technical crowd
+
+Never mix MC4 brands
+
+Mated connectors from different manufacturers are a classic cause of hot joints and fires. Same brand, proper crimp tool.
+
+Cross-mated connectors void warranties and can fail open-circuit or overheat. Crimp, don't solder, and pull-test every joint.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+11,Fri 18 Dec 2026,17:45,E06,Every home,Hot panels make less power,11_2026-12-18_Fri_E06.jpg,"☀️ Solar tip #011 · For every home
+
+Hot panels make less power
+
+Solar panels lose roughly 0.3 to 0.4% of output for every degree above 25°C. Spring often beats midsummer.
+
+That is why a bright, cool April day can produce as much as a hot August one. Good airflow behind the panels helps them stay cooler.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+12,Mon 21 Dec 2026,17:45,T06,Technical,Battery cables carry the big current,12_2026-12-21_Mon_T06.jpg,"☀️ Solar tip #012 · For the technical crowd
+
+Battery cables carry the big current
+
+A 5 kW inverter on a 48 V battery draws over 100 A. Size the cable and fuse or breaker at the battery for that.
+
+Undersized battery leads run hot and cause voltage sag and nuisance low-voltage cut-offs. Keep them short, use proper lugs and torque them to spec.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+13,Wed 23 Dec 2026,17:45,E07,Every home,"Expect less in winter, and plan for it",13_2026-12-23_Wed_E07.jpg,"☀️ Solar tip #013 · For every home
+
+Expect less in winter, and plan for it
+
+In Lebanon, a December day gives roughly half the energy of a July day: the sun is lower and the days are shorter.
+
+Size your system and your habits for winter, not only for summer. Shift loads to midday, and keep the generator for the gaps.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+14,Fri 25 Dec 2026,17:45,T07,Technical,"Bond the frames, add surge protection",14_2026-12-25_Fri_T07.jpg,"☀️ Solar tip #014 · For the technical crowd
+
+Bond the frames, add surge protection
+
+Earth module frames and rails, and fit Type 2 SPDs on both the DC and AC sides.
+
+Rooftop arrays are exposed to induced surges. Keep earthing conductors short and direct, and check SPD status windows during maintenance.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+15,Mon 28 Dec 2026,17:45,E08,Every home,Size the battery for your nights,15_2026-12-28_Mon_E08.jpg,"☀️ Solar tip #015 · For every home
+
+Size the battery for your nights
+
+List what must run after sunset: fridge, lights, router, TV, a fan. That list sizes your battery, not your whole bill.
+
+Daytime loads should run directly on the panels. A battery sized for the evening and night keeps the investment reasonable and the battery working within its comfort zone.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+16,Wed 30 Dec 2026,17:45,T08,Technical,Three or more strings in parallel? Fuse them,16_2026-12-30_Wed_T08.jpg,"☀️ Solar tip #016 · For the technical crowd
+
+Three or more strings in parallel? Fuse them
+
+With three or more parallel strings, a fault can back-feed one string from the others. String fuses prevent it.
+
+Check the module's maximum series fuse rating and size the fuses accordingly.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+17,Fri 01 Jan 2027,17:45,E09,Every home,Give your inverter room to breathe,17_2027-01-01_Fri_E09.jpg,"☀️ Solar tip #017 · For every home
+
+Give your inverter room to breathe
+
+Keep the inverter out of direct sun and out of closed cupboards. Heat makes it reduce its output.
+
+Leave clearance around the unit as the manual specifies, keep the fins dust-free, and never stack boxes against it.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+18,Mon 04 Jan 2027,17:45,T09,Technical,Space rows for the winter solstice,18_2027-01-04_Mon_T09.jpg,"☀️ Solar tip #018 · For the technical crowd
+
+Space rows for the winter solstice
+
+At Beirut's latitude the noon sun on 21 December is about 33° high. Row gap ≈ 1.55 × the rise of the panel ahead.
+
+Rise = panel length × sin(tilt). Add a margin if you want shade-free hours beyond noon in winter.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+19,Wed 06 Jan 2027,17:45,E10,Every home,An old fridge can cost you panels,19_2027-01-06_Wed_E10.jpg,"☀️ Solar tip #019 · For every home
+
+An old fridge can cost you panels
+
+An inefficient fridge can use double the energy of a modern inverter model. Replacing it can be cheaper than adding panels.
+
+Check the energy label. Fridges run day and night, so they matter most for your battery. Keep the door seals clean and the back coil dusted.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+20,Fri 08 Jan 2027,17:45,T10,Technical,A DC/AC ratio of 1.1 to 1.3 is normal,20_2027-01-08_Fri_T10.jpg,"☀️ Solar tip #020 · For the technical crowd
+
+A DC/AC ratio of 1.1 to 1.3 is normal
+
+Oversizing the array relative to the inverter raises morning and evening yield, with only small midday clipping.
+
+Check the inverter's maximum DC input power and current per MPPT before oversizing.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+21,Mon 11 Jan 2027,17:45,E11,Every home,Heat water with the midday sun,21_2027-01-11_Mon_E11.jpg,"☀️ Solar tip #021 · For every home
+
+Heat water with the midday sun
+
+Put the electric water heater on a timer for late morning and early afternoon, or use a solar thermal heater.
+
+A tank heated at noon stays warm into the evening. A solar thermal collector is still the cheapest way to heat water in Lebanon.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+22,Wed 13 Jan 2027,17:45,T11,Technical,"Use BMS communication, not voltage guesses",22_2027-01-13_Wed_T11.jpg,"☀️ Solar tip #022 · For the technical crowd
+
+Use BMS communication, not voltage guesses
+
+Connect lithium batteries over CAN or RS485 and select the matching battery protocol. SOC becomes accurate.
+
+Voltage-based 'user' profiles misread the flat LiFePO4 curve, leading to early cut-offs or overcharging.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+23,Fri 15 Jan 2027,17:45,E12,Every home,Solar and the generator can be friends,23_2027-01-15_Fri_E12.jpg,"☀️ Solar tip #023 · For every home
+
+Solar and the generator can be friends
+
+Ask your installer to set the generator charging current so the generator is never overloaded.
+
+Hybrid inverters can charge the battery from the generator. A correct limit protects both machines and avoids the generator tripping when the house is also drawing power.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+24,Mon 18 Jan 2027,17:45,T12,Technical,Charge voltages come from the datasheet,24_2027-01-18_Mon_T12.jpg,"☀️ Solar tip #024 · For the technical crowd
+
+Charge voltages come from the datasheet
+
+For a 16S LiFePO4 pack, absorption is typically around 56 V, but always use the battery maker's values.
+
+Wrong charge settings are the fastest way to unbalance cells. Set absorption, float and cut-off exactly as the manufacturer specifies.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+25,Wed 20 Jan 2027,17:45,E13,Every home,"After a storm, look but don't touch",25_2027-01-20_Wed_E13.jpg,"☀️ Solar tip #025 · For every home
+
+After a storm, look but don't touch
+
+Check for cracked glass, loose cables or moved panels. Panel cables are live whenever there is daylight.
+
+Even the switched-off panel side can carry dangerous DC voltage. If something looks wrong, switch off at the inverter and call your installer.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+26,Fri 22 Jan 2027,17:45,T13,Technical,Scan with a thermal camera,26_2027-01-22_Fri_T13.jpg,"☀️ Solar tip #026 · For the technical crowd
+
+Scan with a thermal camera
+
+After commissioning, an IR scan under good sun reveals hot cells, loose terminals and failing connectors.
+
+Repeat the scan once a year. It takes minutes and finds problems that no app will show.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+27,Mon 25 Jan 2027,17:45,E14,Every home,Know where your DC switch is,27_2027-01-25_Mon_E14.jpg,"☀️ Solar tip #027 · For every home
+
+Know where your DC switch is
+
+The DC isolator disconnects the panels from the inverter. Every adult in the house should know where it is.
+
+Ask your installer to label the DC isolator, the AC breaker and the battery breaker clearly. In an emergency, seconds count.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+28,Wed 27 Jan 2027,17:45,T14,Technical,Measure every string before connecting,28_2027-01-27_Wed_T14.jpg,"☀️ Solar tip #028 · For the technical crowd
+
+Measure every string before connecting
+
+Strings on the same MPPT should show Voc within about 2 to 3% of each other.
+
+A string reading clearly low usually means a missing module, reversed polarity or a bad connector. Fix it before the inverter sees it.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+29,Fri 29 Jan 2027,17:45,E15,Every home,Keep your paperwork,29_2027-01-29_Fri_E15.jpg,"☀️ Solar tip #029 · For every home
+
+Keep your paperwork
+
+Panel performance warranties typically run 25 to 30 years, inverters 5 to 10. Keep invoices and serial numbers.
+
+Photograph the labels on panels, inverter and battery on installation day and keep them with the invoice. Warranty claims are much easier with proof.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+30,Mon 01 Feb 2027,17:45,T15,Technical,"Design for the wind, not the brochure",30_2027-02-01_Mon_T15.jpg,"☀️ Solar tip #030 · For the technical crowd
+
+Design for the wind, not the brochure
+
+Ballast or anchor to the calculated wind load for the site. Coastal and mountain roofs see very different loads.
+
+Check the roof slab and parapets. A short structural note for each site protects the client and the contractor.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+31,Wed 03 Feb 2027,17:45,E16,Every home,The right tilt for Lebanon,31_2027-02-03_Wed_E16.jpg,"☀️ Solar tip #031 · For every home
+
+The right tilt for Lebanon
+
+For a fixed system facing south, a tilt of about 25 to 30° is a good all-year compromise at Lebanon's latitude.
+
+Steeper favours winter, flatter favours summer. Most homes are best served by the all-year compromise.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+32,Fri 05 Feb 2027,17:45,T16,Technical,Check N–PE bonding in battery mode,32_2027-02-05_Fri_T16.jpg,"☀️ Solar tip #032 · For the technical crowd
+
+Check N–PE bonding in battery mode
+
+When a hybrid inverter runs off-grid, the neutral–earth bond must be correct, or the RCDs downstream won't work.
+
+Many hybrids switch the bond with an internal relay. Test RCD tripping with the grid or generator disconnected.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+33,Mon 08 Feb 2027,17:45,E17,Every home,East–west roofs still work,33_2027-02-08_Mon_E17.jpg,"☀️ Solar tip #033 · For every home
+
+East–west roofs still work
+
+Panels facing east and west produce somewhat less than south-facing ones, but spread production over a longer day.
+
+That flatter curve can suit homes with morning and evening loads, and it often fits more panels on the roof.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+34,Wed 10 Feb 2027,17:45,T17,Technical,Tune the generator input,34_2027-02-10_Wed_T17.jpg,"☀️ Solar tip #034 · For the technical crowd
+
+Tune the generator input
+
+Set the maximum AC charge current and use the generator mode so the inverter accepts generator frequency swings.
+
+Lebanese private generators often drift in frequency and voltage. The right input mode stops the inverter from dropping the generator repeatedly.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+35,Fri 12 Feb 2027,17:45,E18,Every home,The 1 kWp yardstick,35_2027-02-12_Fri_E18.jpg,"☀️ Solar tip #035 · For every home
+
+The 1 kWp yardstick
+
+In Lebanon, each 1 kWp of well-installed panels produces roughly 1,500 to 1,650 kWh a year.
+
+Use it as a sanity check on any offer. Divide your yearly consumption by this figure to get a first idea of the system size you need.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+36,Mon 15 Feb 2027,17:45,T18,Technical,CT clamp direction matters,36_2027-02-15_Mon_T18.jpg,"☀️ Solar tip #036 · For the technical crowd
+
+CT clamp direction matters
+
+For zero-export or export limiting, the CT arrow must point the way the manufacturer specifies, usually toward the grid.
+
+A reversed CT makes the inverter think the house is exporting while it is importing. Check the live readings at commissioning.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+37,Wed 17 Feb 2027,17:45,E19,Every home,Put the battery in a cool place,37_2027-02-17_Wed_E19.jpg,"☀️ Solar tip #037 · For every home
+
+Put the battery in a cool place
+
+Install batteries in a ventilated, shaded spot away from bedrooms. Heat ages every battery.
+
+LiFePO4 (lithium iron phosphate) is the safer and longer-lasting chemistry for homes. Keep the area clear and dry.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+38,Fri 19 Feb 2027,17:45,T19,Technical,Clean with soft water,38_2027-02-19_Fri_T19.jpg,"☀️ Solar tip #038 · For the technical crowd
+
+Clean with soft water
+
+Hard water leaves scale on the glass that cuts light more than the dust you removed. Use soft or demineralised water.
+
+Avoid high-pressure jets on edges and junction boxes. Clean when the panels are cool.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"
+39,Mon 22 Feb 2027,17:45,E20,Every home,Hunt the standby drain,39_2027-02-22_Mon_E20.jpg,"☀️ Solar tip #039 · For every home
+
+Hunt the standby drain
+
+A device drawing 20 W around the clock uses about 0.5 kWh a day, straight from your battery at night.
+
+Old receivers, chargers and decoders left on standby add up. Use switched power strips for the TV corner and the office.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #Lebanon #SolarEnergy #SolarTips #RenewableEnergy #Beirut #Circa100"
+40,Wed 24 Feb 2027,17:45,T20,Technical,High altitude? Check the load rating,40_2027-02-24_Wed_T20.jpg,"☀️ Solar tip #040 · For the technical crowd
+
+High altitude? Check the load rating
+
+For snowy mountain sites, choose modules and mounting rated for heavy front loads, such as 5,400 Pa.
+
+Check the clamping zones in the installation manual; the rated load only applies when the module is clamped where the manufacturer says.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100"

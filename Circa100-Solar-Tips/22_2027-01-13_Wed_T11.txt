@@ -1,0 +1,11 @@
+☀️ Solar tip #022 · For the technical crowd
+
+Use BMS communication, not voltage guesses
+
+Connect lithium batteries over CAN or RS485 and select the matching battery protocol. SOC becomes accurate.
+
+Voltage-based 'user' profiles misread the flat LiFePO4 curve, leading to early cut-offs or overcharging.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

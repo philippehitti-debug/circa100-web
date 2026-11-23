@@ -1,0 +1,11 @@
+☀️ Solar tip #004 · For the technical crowd
+
+Check Vmp at hot cell temperature
+
+At a summer cell temperature of around 70°C, the string Vmp must still sit inside the inverter's MPPT window.
+
+Too few modules per string and the hot-day voltage drops below the tracker's minimum, so the inverter loses the MPP exactly when irradiance is highest.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

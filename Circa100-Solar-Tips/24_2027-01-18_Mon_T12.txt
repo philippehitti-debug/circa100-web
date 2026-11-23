@@ -1,0 +1,11 @@
+☀️ Solar tip #024 · For the technical crowd
+
+Charge voltages come from the datasheet
+
+For a 16S LiFePO4 pack, absorption is typically around 56 V, but always use the battery maker's values.
+
+Wrong charge settings are the fastest way to unbalance cells. Set absorption, float and cut-off exactly as the manufacturer specifies.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100

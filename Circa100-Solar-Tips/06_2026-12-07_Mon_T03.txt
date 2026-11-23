@@ -1,0 +1,11 @@
+☀️ Solar tip #006 · For the technical crowd
+
+One MPPT, one orientation, one module
+
+Don't mix module models, tilts or azimuths on the same MPPT input. Mismatch costs yield.
+
+Use separate MPPT inputs for east and west arrays, or for strings with different module counts.
+
+Questions about your own system? DM @circa.100 or try the free solar assessment at circa100.com (link in bio).
+
+#SolarLebanon #SolarPV #PVdesign #SolarInstaller #Inverter #LiFePO4 #EngineeringTips #Circa100
